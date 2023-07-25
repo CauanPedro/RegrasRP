@@ -1,0 +1,26 @@
+-- Regras Gerais
+
+* Não tente explorar o servidor ou agir com intenções maliciosas em relação a ele.
+* Não mate aleatoriamente alguém. (Conhecido como RDM - Random Death Match)
+* Não assedie ou incomode outros jogadores. Isso inclui ser racista ou tentar ofender outros de propósito.
+* Não faça spam. Isso inclui chat de voz, chat OOC, anúncios ou qualquer outro método de comunicação.
+* Não abuse do uso de props. Isso inclui prop climb, surf, kill, block, bridge, push, trap ou spam.
+* Não crie placas de texto ofensivas ou inadequadas.
+* Não use um nome de RP inadequado.
+* Deixe os administradores fazerem o trabalho deles, se estiverem ocupados, seja paciente e espere que terminem.
+* Enganar durante transações com vendedores ou qualquer transação de roleplay não é permitido de forma alguma.
+* Não ajude a polícia. Você deve ser uma classe do governo ou um guarda-costas contratado pelo Prefeito para ajudar a polícia.
+* Em geral, use o bom senso e divirta-se.
+
+-- Regras de Construção
+
+* Enquanto estiver construindo, coloque uma placa que diga "Construção" para informar aos outros que você não está fazendo roleplay.
+* Não interfira com pessoas que têm uma placa de "Construção".
+* Um jogador deve ser capaz de entrar e sair do seu prédio usando um decodificador de teclas ou uma lockpick.
+* Não abuse da ferramenta de porta desvanecida. (Usar o teclado numérico para constantemente spamá-lo ou abri-lo e fechá-lo rapidamente)
+* As teclas devem estar conectadas a uma porta desvanecida funcional.
+* As teclas devem ter um tempo de espera de 5 segundos para portas desvanecidas. (Com um atraso inicial de 0)
+* Não crie fendas pequenas em sua base que os invasores não possam ver. (armadilhas de headshot e footshot)
+* Nenhuma vantagem desorientadora, como quartos completamente escuros, props totalmente invisíveis ou efeitos de brilho no mundo.
+* Não armazene entidades em telhados inacessíveis ou áreas inacessíveis em geral.
+* Bases no céu não são permitidas.
